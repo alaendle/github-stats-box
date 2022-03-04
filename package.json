@@ -22,7 +22,7 @@
     ],
     "dependencies": {
         "@octokit/request": "^5.4.7",
-        "axios": "^0.21.2",
+        "axios": "^0.26.0",
         "dotenv": "16.0.0",
         "numeral": "^2.0.6"
     },
