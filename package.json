@@ -27,7 +27,7 @@
         "numeral": "^2.0.6"
     },
     "devDependencies": {
-        "prettier": "2.7.0",
+        "prettier": "2.7.1",
         "@bokub/prettier-config": "2.1.0"
     },
     "prettier": "@bokub/prettier-config"
